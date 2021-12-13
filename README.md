@@ -14,6 +14,8 @@
   > 
   > **Преподаватель:** teacher/Teacher123&
 
+* **Дополнительно развернут edX**: https://x.olimpiev.site/
+
 ## Демонстрация успешного выполнения:
 ![do](https://user-images.githubusercontent.com/67209858/145906231-dcb01078-c36f-42f5-856a-aa6bff5ee666.gif)
 
