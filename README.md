@@ -14,3 +14,8 @@
   > 
   > **Преподаватель:** teacher/Teacher123&
 
+## Демонстрация успешного выполнения:
+![do](https://user-images.githubusercontent.com/67209858/145906231-dcb01078-c36f-42f5-856a-aa6bff5ee666.gif)
+
+## Демонстрация неуспешного выполнения:
+![dont](https://user-images.githubusercontent.com/67209858/145906230-0b498287-41f6-438d-9d25-af5ea5e5b02f.gif)
