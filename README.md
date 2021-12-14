@@ -7,7 +7,7 @@
 
 
 * **Задание по SCORM:** https://kodaktor.ru/g/scorm
-* **Отчет о проделанной работе:** https://docs.google.com/document/d/1PYqq3XPbjnp2se9lF_QdeYGi36ya2njgxoPfrp1ZI8Y/edit?usp=sharing
+* **Отчет о проделанной работе:** SCORM.md
 * **Moodle доступен здесь:** http://moodle.olimpiev.site/moodle/ (развернут на Yandex Cloud)
 
   > **Студент:** student/Student123&
